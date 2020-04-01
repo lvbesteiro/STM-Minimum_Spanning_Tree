@@ -1,5 +1,6 @@
 # This script was used to analyze the degree of order in 2D polymers from SEM images.
-# Written by Lucas V. Besteiro.
+# Written by Lucas V. Besteiro, lvbesteiro@protonmail.com.
+# Shared under GPL 3.0 license
 
 import os
 import numpy as np
