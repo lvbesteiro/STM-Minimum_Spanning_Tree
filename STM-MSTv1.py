@@ -1,4 +1,4 @@
-# This script was used to analyze the degree of order in 2D polymers from STM images.
+# This script analyzes the degree of order in two-dimensional (2D) polymers from STM experimental images.
 # Written by Lucas V. Besteiro, lvbesteiro@protonmail.com.
 # Shared under GPL 3.0 license
 
